@@ -34,7 +34,7 @@
     "title-case": "^3.0.2",
     "typographic-quotes": "^2.0.1",
     "unified": "^8.0.0",
-    "unist-util-is": "^4.0.0",
+    "unist-util-is": "^4.1.0",
     "unist-util-visit": "^2.0.0",
     "unist-util-visit-parents": "^3.0.0"
   },
