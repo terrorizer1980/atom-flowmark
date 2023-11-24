@@ -31,7 +31,7 @@
     "remark-stringify": "^8.0.0",
     "remark-textr": "^4.0.0",
     "textr": "^0.3.0",
-    "title-case": "^3.0.2",
+    "title-case": "^3.0.3",
     "typographic-quotes": "^2.0.1",
     "unified": "^8.0.0",
     "unist-util-is": "^4.0.0",
